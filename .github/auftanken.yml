@@ -40,3 +40,4 @@ jobs:
           git pull origin master
           git commit -m "auftanken updated"
           git push origin master
+          
