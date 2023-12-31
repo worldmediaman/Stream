@@ -43,4 +43,4 @@ jobs:
           git commit -m "szctv updated"
           git push
 
-          - ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true 
+          
