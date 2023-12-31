@@ -1,6 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 # Thanks to pshanmu3 user on github
 name: szctv action
+ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
 
 # Controls when the workflow will run
 on:
