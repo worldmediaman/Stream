@@ -2,8 +2,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
-
 def extract_src_from_html(html_code):
     soup = BeautifulSoup(html_code, 'html.parser')
     script_tag = soup.find('script', string=lambda text: text and 'player.source =' in text)
