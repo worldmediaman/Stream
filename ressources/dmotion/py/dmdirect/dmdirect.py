@@ -9,7 +9,7 @@ def snif(line):
         stream_url = response['qualities']['auto'][0]['url']
         m3u = requests.get(stream_url).text
     except Exception as e:
-        m3u = 'https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8'
+        m3u = 'https://raw.githubusercontent.com/worldmediaman/edit/main/ressources/dmotion/py/dmdirect/test.m3u8'
     
     return m3u
 
