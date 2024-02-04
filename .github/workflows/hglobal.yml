@@ -27,7 +27,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "szctv bot"
+          git config --global user.name "hglobal bot"
       
       
       - name: updating szctv
@@ -40,7 +40,7 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "szctv updated"
+          git commit -m "hglobal updated"
           git push
 
           
