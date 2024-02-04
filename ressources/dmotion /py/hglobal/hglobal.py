@@ -56,3 +56,4 @@ with open('ressources/dmotion/py/hglobal/hglobal_info.txt') as f:
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
+    
