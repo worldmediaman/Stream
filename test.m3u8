@@ -1,4 +1,6 @@
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-STREAM-INF:BANDWIDTH=3412864,AVERAGE-BANDWIDTH=2891084,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+#EXTINF:-1 tvg-name="GÜNÜN MAÇI" tvg-logo="https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-desktop/f_png/mls-stl-prd/zjb7vwx1tm8agwst941g.png" group-title="SPOR",GÜNÜN MAÇI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
+#EXTVLCOPT:http-accept=*/*
+https://hayat.trgoals471.xyz/yayinstar.m3u8http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
